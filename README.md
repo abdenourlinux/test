@@ -1,4 +1,4 @@
-##magento-backup-rollback
+#magento-backup-rollback
 
 
 Bash scripts to backup and rollback magento2 files and database.
